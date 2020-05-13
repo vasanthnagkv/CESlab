@@ -9,7 +9,7 @@ Breadboard
 resistor (10K ohms)
 LDR
 Wires (10 pieces)
-USB cable
+USB cable.
 
 Basic Structure of the system:
 --------------------------------------------------------------------------------------------------------
