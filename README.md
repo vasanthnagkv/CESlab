@@ -31,16 +31,11 @@ Python All reads this result and take necessary action.
 		-> Light in the room goes low. A status NOK is seen on the COM port by the Python APP - (python app action - )Now a Windows Toast           message is shown notifying this to the user. 
 		-> (python app action - )If the state is still same after 2 minutes, Another toast is shown to the user asking to adjust the room           brigtness to avoid damage to the usr's eye sight while using the computer.
 		-> When the user switches on the lights in the room, LDR senses it and Arduino gives an OK to the Python App then a toast is shown          telling lights are OK now and lets the user to continue working.
-		-> (python app action - )If the state is still same after 2 more minutes (after a total of 4 minutes) Python App will put the system        to sleep
+		-> (python app action - )If the state is still same after 2 more minutes (after a total of 4 minutes) Python App will logged off the user and user will have to login back by switching on the lights. 
 		
 		
 		
 		
-Circuit and Schematic Representation :  		
-
-<a href="/DarknessProtection.pdf"></a>
-DarknessProtection.pdf	DarknessProtection.pdf
-
 
 
 
