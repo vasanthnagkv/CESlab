@@ -32,6 +32,12 @@ Python All reads this result and take necessary action.
 		-> (python app action - )If the state is still same after 2 minutes, Another toast is shown to the user asking to adjust the room           brigtness to avoid damage to the usr's eye sight while using the computer.
 		-> When the user switches on the lights in the room, LDR senses it and Arduino gives an OK to the Python App then a toast is shown          telling lights are OK now and lets the user to continue working.
 		-> (python app action - )If the state is still same after 2 more minutes (after a total of 4 minutes) Python App will put the system        to sleep
+		
+		
+		
+		
+		
+		DarknessProtection.pdf
 
 
 
